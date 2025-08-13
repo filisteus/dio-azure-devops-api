@@ -1,0 +1,30 @@
+# Dependências
+[Dd]ependencies/
+[Pp]ackages/
+[Ii]mports/
+*.[Ss]uget
+*.nupkg
+*.snupkg
+*.tar.gz
+
+# Saída de build
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Rr]eleases/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.sln.docstates
+.vs/
+
+# Ferramentas
+*.DotSettings
+*.project.json
+project.lock.json
+
+# Cache
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Cc]ache
